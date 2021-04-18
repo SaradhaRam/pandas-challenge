@@ -1,0 +1,24 @@
+
+PyCitySchool Data Analysis Report:
+
+1. Top performing school(by % overall passing )  and Scores by school size:
+
+* From the top 5 performing school data we can conclude that charter schools are performing well, because 
+the size of the school is half compared to District school size.
+
+* When you compare with the bottom performing school we can conclude the less performing schools are all District,
+and the school size is double compared to Charter school. 
+
+* So if the school size is large,the performance is low. 
+If the school size is small the performance is good.
+This is proved by Scores by school size summary data.
+
+2.  Scores by school spending summary data:
+
+* As per the Scores by school spending data, the school performance has no role in improving students score. 
+
+3. Reading and Math score By grade data:
+
+* As per this data all grades are performing well in Reading. 
+* But Math score is having the variations by schols. 
+* But each school math score is consistent through all grades(9th,10th, 11th and 12th)  
